@@ -1,0 +1,2 @@
+import{A as t}from"./index-97aaad38.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const c={title:"Data/Avatar",component:t,args:{src:"https://github.com/caioduqueta.png",alt:"Caio Duque"},argTypes:{src:{control:{type:"text"}}}},e={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,p as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-ed2d5305.js.map

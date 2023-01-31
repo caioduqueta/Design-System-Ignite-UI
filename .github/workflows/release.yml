@@ -32,5 +32,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: 8PG2a2Q5XBnVU69KHfTGDeEY
+          TURBO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TURBO_TEAM: duqueta
